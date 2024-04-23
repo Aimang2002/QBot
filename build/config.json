@@ -1,0 +1,80 @@
+{
+    "聊天端口": {
+        "GROUP_API": "send_group_msg",
+        "PRIVATE_API": "send_private_msg"
+    },
+    "消息回复白名单": {
+        "OPEN_GROUPCHAT_MESSAGE": true,
+        "MANAGER_QQ": 1472807646,
+        "BOT_QQ": 3245305826
+    },
+    "GO-CQ通信端口": {
+        "REPORTUP_MESSAGE_IP": "127.0.0.1",
+        "REPORTUP_MESSAGE_PORT": 9999,
+        "SEND_MESSAGE_IP": "127.0.0.1",
+        "SEND_MESSAGE_PORT": 8600
+    },
+    "文件路径": {
+        "FACEURL_PATH": "source/face/faceURL.csv",
+        "WYY_SONGID_PATH": "source/Song/wyySongID.csv",
+        "QUOTES_PATH": "source/celebritySaying/celebritySaying.txt",
+        "ANIMEPICTRUE_PATH": "source/Pictrue/anime.csv",
+        "CNGPICTRUE_PATH": "source/Pictrue/CNG.csv",
+        "HELP_PATH": "source/help/help.txt",
+        "HELP_PERSONALITY_PATH": "source/help/help_personality.txt"
+    },
+    "人格文件路径": {
+        "PERSONALITY_Kevin": "source/personality/yingjie/Kevin.txt",
+        "PERSONALITY_Elysia": "source/personality/yingjie/Elysia.txt",
+        "PERSONALITY_Aponia": "source/personality/yingjie/Aponia.txt",
+        "PERSONALITY_Eden": "source/personality/yingjie/Eden.txt",
+        "PERSONALITY_Vill_V": "source/personality/yingjie/Vill_V.txt",
+        "PERSONALITY_Kalpas": "source/personality/yingjie/Kalpas.txt",
+        "PERSONALITY_Su": "source/personality/yingjie/Su.txt",
+        "PERSONALITY_Sakura": "source/personality/yingjie/Sakura.txt",
+        "PERSONALITY_Kosma": "source/personality/yingjie/Kosma.txt",
+        "PERSONALITY_Mobius": "source/personality/yingjie/Mobius.txt",
+        "PERSONALITY_Griseo": "source/personality/yingjie/Griseo.txt",
+        "PERSONALITY_Hua": "source/personality/yingjie/Hua.txt",
+        "PERSONALITY_Pardofelis": "source/personality/yingjie/Pardofelis.txt",
+        "PERSONALITY_LIGHTWEIGHT_Personality": "source/personality/Lightweight/personality.txt"
+    },
+    "语音路径": {
+        "SPEECHSOUND_PATH": "该变量已被遗弃"
+    },
+    "QBot": {
+        "QBOT_NAME": "克莱茵"
+    },
+    "OpenAI": {
+        "OPENAI_API_KEY_1": "你的API",
+        "OPENAI_API_KEY_2": "你的API",
+        "OPENAI_ENDPOINT_1": "你所需要连接的端点",
+        "OPENAI_ENDPOINT_2": "你所需要连接的端点",
+        "OPENAI_GPT4": "gpt-4-1106-preview",
+        "OPENAI_GPT4_VISION": "gpt-4-vision-preview",
+        "OPENAI_GPT4ALL": "gpt-4-all",
+        "OPENAI_GPT3": "gpt-3.5-turbo-0125",
+        "GPT3_CONTEXT_MAX": 10240,
+        "GPT4_CONTEXT_MAX": 6114,
+        "OPENAI_SIGLE_TOKEN_MAX": 4000
+    },
+    "消息管理": {
+        "MESSAGE_SURVIVAL_TIME": 3600
+    },
+    "下载管理": {
+        "IMAGE_DOWNLOAD_PATH": "~/桌面/QBot/BOT/QBot2.2.1_Beta/build/source/image/"
+    },
+    "第三方插件路径": {
+        "REALESGAN_PATH": "~/OpenSourceProject/realesrgan/",
+        "REALESGAN_MODEL": "realesrgan-x4plus-anime",
+        "VIST_API_URL": "http://192.168.1.4",
+        "VIST_API_PORT": "9880",
+        "VIST_VOICE_NAME": "/home/aimang/OpenSourceProject/GPT-SoVITS-0211/ReferenceAudio/Klein.wav",
+        "VIST_VOICE_TEXT": "卖泡面这类垃圾食品终究还是太局限了，而且容易被人投诉。",
+        "VIST_FILE_SAVE_PATH": "~/桌面/QBot/BOT/QBot2.2.0_Beta/build/source/voice/"
+    },
+    "globalConfig": {
+        "GLOBAL_VOICE": true,
+        "ACCESSIBLITY_CHAT": true
+    }
+}
